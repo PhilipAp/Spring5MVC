@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring5mvc-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pkappiah
+Implementation-Vendor-Id: com.philipap.spring5mvcexample
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring5mvc-example
+Created-By: Maven Integration for Eclipse
+
